@@ -1,0 +1,11 @@
+.body_background2 
+{
+    background-image: url("Xbox_Wireless_Controller-1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    font-weight: bold !important;
+    color: blue !important;
+}
